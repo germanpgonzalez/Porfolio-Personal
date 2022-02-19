@@ -6,7 +6,6 @@
 
 
 body {
-    margin: 0;
     padding: 0;
     background-color: var(--fondo-color);
 }
@@ -29,8 +28,8 @@ body {
 
 
 .sobre-mi {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background-color: #7f5a83;
     background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);    
     height: 70vh;
@@ -48,8 +47,8 @@ body {
 }
 
 .sobre-mi2 {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background-image: url(assets/foto4.jpg);
     height: 70vh;
     background-size: cover;
