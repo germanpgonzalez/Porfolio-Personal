@@ -1,6 +1,6 @@
 :root {
     --main-color:white;
-    --text-color:rgb(19, 159, 214);
+    --text-color: white;
     --fondo-color:rgb(88, 87, 87);
 }
 
@@ -53,7 +53,7 @@ body {
 .sobre-mi2 {
     margin-top: 50px;
     margin-bottom: 50px;
-    background-image: url(assets/foto4.jpg);
+    background-image: url(assets/foto1.jpg);
     height: 70vh;
     background-size: cover;
     box-sizing: border-box;
@@ -67,14 +67,6 @@ body {
     color: var(--text-color);
 }
 
-.col-sm-8 {
-    background-image: url(assets/foto4.jpg);
-    height: 70vh;
-    background-size: cover;
-    box-sizing: border-box;
-    color: var(--text-color);
-    text-align: center;
-}
 
 .mt-5{
     margin-top: 30%;
@@ -83,7 +75,7 @@ body {
 .laboral {
     margin-top: 30px;
     margin-bottom: 30px;
-    background-image: url(assets/foto19.jpg);
+    background-image: url(assets/foto2.jpg);
     height: 70vh;
     background-size: cover;
     box-sizing: border-box;
@@ -105,7 +97,7 @@ body {
 .estudios {
     margin-top: 30px;
     margin-bottom: 30px;
-    background-image: url(assets/estudio3.jpg);
+    background-image: url(assets/foto3.jpg);
     height: 70vh;
     background-size: cover;
     box-sizing: border-box;
@@ -153,7 +145,7 @@ body {
 .skill-image {
     margin-top: 30px;
     margin-bottom: 30px;
-    background-image: url(assets/foto18.jpg);
+    background-image: url(assets/foto4.jpg);
     height: 70vh;
     background-size: cover;
     box-sizing: border-box;
