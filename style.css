@@ -144,7 +144,7 @@ body {
 
 .skill-image {
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     background-image: url(assets/foto4.jpg);
     height: 70vh;
     background-size: cover;
@@ -263,4 +263,20 @@ body {
     100%{
         width: 60%;
     }
+}
+
+.proyectos {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-left: 10px;
+    color:white;
+}
+
+
+.card {
+    padding: 10px 10px;
+    color:black;
+    margin:50px;
+    box-shadow: 10px 30px 30px;
 }
